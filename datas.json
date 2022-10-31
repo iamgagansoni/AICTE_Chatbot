@@ -1,0 +1,61 @@
+{"datas":[
+    {
+        "tag":"greeting",
+        "patterns": ["Hello","Hi", "How are you?","Who are you?"],
+        "responces": ["Hey, I am Jarvis. Please enter the query for which you seek support."],
+        "context": [""]
+    },
+    {
+        "tag":"chairman",
+        "patterns":["Who is the Chairman of AICTE?","Who is the Head Of AICTE?"],
+        "responces":["Anil Sahasrabudhe"],
+        "context": [""]
+    },
+    {
+        "tag":"aicte",
+        "patterns":["What is AICTE?"],
+        "responces":["The All India Council for Technical Education (AICTE) is a statutory body, and a national-level council for technical education, under the Department of Higher Education and Ministry of Education. "],
+        "context":[""]
+    },
+    {
+        "tag":"establish",
+        "patterns":["When was AICTE established","When was AICTE formed", "When was AICTE affiliated with?"],
+        "responces":["76 Years ago, established in November 1945 first as an advisory body and later on in 1987 given statutory status by an Act of Parliament."],
+        "context":[""]
+    },
+    {
+        "tag":"function",
+        "patterns":["Function of AICTE?","What does AICTE DO?","AICTE responsible for?"],
+        "responces":["AICTE is responsible for proper planning and coordinated development of the technical education and management education system in India."],
+        "context":[""]
+    },
+    {
+        "tag":"website",
+        "patterns":["Website for AICTE?"],
+        "responces":["www.aicte-india.org"],
+        "context":[""]
+    },
+    {
+        "tag":"location",
+        "patterns":["AICTE headquarters","Where is AICTE Location?"],
+        "responces":["NEW DELHI"],
+        "context":[""]
+    },
+    {
+        "tag":"composition",
+        "patterns":["AICTE made up of?","AICTE Composed of","AICTE comprises of?"],
+        "responces":["The AICTE is composed of the e-Governance, Approval, Planning and Coordination, Academic, University, Administration, Finance, and Research, Institutional and Faculty Development Bureaus."],
+        "context":[""]
+    },
+    {
+        "tag":"news",
+        "patterns":["Latest Updates","Latest News?"],
+        "responces":["AICTE allows another 20 institutes to offer BTech in regional language from this year",
+        "After hitting 10-yr low, engineering seats go up as AICTE approves 142 new technical institutes",
+        "AICTE introduced Technical Book Writing and Translation in 12 Indian languages",
+        "AICTE Revises Academic Calendar, Classes for First-year Students to Begin on October 10"],
+        "context":[""]
+    }
+    
+]
+}
